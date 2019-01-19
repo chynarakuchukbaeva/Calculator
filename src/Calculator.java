@@ -22,16 +22,18 @@ public static double subtract(double n1, double n2){
     public static double divide(double n,double n1){
         return n/n1;
     }
-    public void ariphmetic(){
+    public void ariphmetic() {
         System.out.println("hi");
+
     }
 
-<<<<<<< HEAD
-=======
 
->>>>>>> 264dd79e893b8e646f87e8ed1441cce65c0896cf
+
 public static double division(double num1, double num2){
     return num1/num2;
+}
+public void good(){
+    System.out.println("good morning");
 }
 
 
