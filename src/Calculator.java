@@ -17,7 +17,9 @@ public static double subtract(double n1, double n2){
         
         
     }
-
+public static double division(double num1, double num2){
+    return num1/num2;
+}
 
 
 
