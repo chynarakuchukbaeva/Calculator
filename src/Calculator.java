@@ -29,11 +29,11 @@ public static double subtract(double n1, double n2){
 
 
 
-<<<<<<< HEAD
-=======
 
 
->>>>>>> refs/remotes/origin/master
+
+
+
 public static double division(double num1, double num2){
     return num1/num2;
 }
@@ -42,7 +42,7 @@ public void good(){
 }
 
 public void hi(){
-    System.out.prinln("Hi");
+    System.out.println("Hi");
     
 }
 
