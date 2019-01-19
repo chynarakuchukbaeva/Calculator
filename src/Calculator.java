@@ -17,6 +17,7 @@ public static double subtract(double n1, double n2){
         
         
     }
+<<<<<<< HEAD
 
     public static double divide(double n,double n1){
         return n/n1;
@@ -25,6 +26,11 @@ public static double subtract(double n1, double n2){
         System.out.println("hi");
     }
 
+=======
+public static double division(double num1, double num2){
+    return num1/num2;
+}
+>>>>>>> e0f3b812fd0b2d9df37a0eee861ec5783cd44d74
 
 
 
