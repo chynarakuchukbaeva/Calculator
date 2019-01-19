@@ -18,6 +18,13 @@ public static double subtract(double n1, double n2){
         
     }
 
+    public static double divide(double n,double n1){
+        return n/n1;
+    }
+    public void ariphmetic(){
+        System.out.println("hi");
+    }
+
 
 
 
