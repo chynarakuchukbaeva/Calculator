@@ -26,15 +26,18 @@ public static double subtract(double n1, double n2){
         System.out.println("hi");
     }
 
-<<<<<<< HEAD
-=======
 
->>>>>>> 264dd79e893b8e646f87e8ed1441cce65c0896cf
+
+
+
 public static double division(double num1, double num2){
     return num1/num2;
 }
 
-
+public void hi(){
+    System.out.prinln("Hi");
+    
+}
 
 
 }
